@@ -15,3 +15,4 @@ git diff -staged
 git commit
 git push
 ```
+Eh Salut
