@@ -15,4 +15,9 @@ git diff -staged
 git commit
 git push
 ```
+<<<<<<< HEAD
 CA VA ?
+=======
+Eh Salut
+ca va bien et toi ?
+>>>>>>> 594893ca136c4a40d018fd0caf7da3e30ce35f6c
