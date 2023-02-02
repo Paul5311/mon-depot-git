@@ -12,5 +12,6 @@ git log
 git show
 git diff
 git diff -staged
+git commit
 git push
 ```
