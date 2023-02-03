@@ -14,4 +14,7 @@ git diff
 git diff -staged
 git commit
 git push
+git branch
+git checkout ( nom de la branch )
+git checkout ( nom de la branch )
 ```
